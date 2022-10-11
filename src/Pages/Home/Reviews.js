@@ -9,15 +9,8 @@ const Reviews = () => {
                     <div class="max-w-screen-xl px-4 py-16 mx-auto sm:px-6 lg:px-8 sm:py-24">
                         <div class="max-w-xl mx-auto text-center">
                             <h2 class="text-4xl font-bold tracking-tight sm:text-5xl">
-                                Read trusted reviews from our customers
+                                Read trusted reviews from our Students
                             </h2>
-
-                            <p class="max-w-lg mx-auto mt-4 text-gring-offset-warm-gray-500">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
-                                praesentium natus sapiente commodi. Aliquid sunt tempore iste
-                                repellendus explicabo dignissimos placeat, autem harum dolore
-                                reprehenderit quis! Quo totam dignissimos earum.
-                            </p>
                         </div>
 
                         <div
