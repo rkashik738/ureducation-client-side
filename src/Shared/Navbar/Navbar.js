@@ -2,6 +2,7 @@ import React from 'react';
 import { NavLink, Link } from 'react-router-dom';
 import { FaSignOutAlt, FaRegMoon } from "react-icons/fa";
 import CustomLink from '../../components/CustomLink';
+import logo from '../../assets/logo/logo.png'
 
 const Navbar = ({ children }) => {
     const menuItems = <>
@@ -22,8 +23,7 @@ const Navbar = ({ children }) => {
                     {/* <!-- Navbar --> */}
                     <div class=" w-full navbar lg:max-w-7xl mx-auto lg:px-12">
                         <Link to='/' class="flex-1 px-2 mx-2">
-                            <img src='https://w7.pngwing.com/pngs/941/692/png-transparent-black-small-apple-logo-logo-material-apple-logo-black-thumbnail.png' className='h-12' alt="" />
-                            <h2 className='text-xl lg:text-2xl ml-1 mt-1 font-medium'>OCTCIT</h2>
+                            <img src={logo} className='h-12' alt="" />
                         </Link>
 
                         <div class="flex-none lg:hidden">

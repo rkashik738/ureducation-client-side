@@ -7,12 +7,10 @@ const Programs = () => {
                 <section class="text-black bg-white-900">
                     <div class="max-w-screen-xl px-4 py-16 mx-auto sm:px-6 lg:px-8">
                         <div class="max-w-lg mx-auto text-center">
-                            <h2 class="text-3xl font-bold sm:text-4xl">Kickstart your marketing</h2>
+                            <h2 class="text-3xl font-bold sm:text-4xl">Malaysia Award-Winning University's Programs</h2>
 
                             <p class="mt-4 text-black-300">
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur
-                                aliquam doloribus nesciunt eos fugiat. Vitae aperiam fugit consequuntur
-                                saepe laborum.
+                            Explore all available scholarships and other financial assistance
                             </p>
                         </div>
 
@@ -40,11 +38,10 @@ const Programs = () => {
                                     />
                                 </svg>
 
-                                <h3 class="mt-4 text-xl font-bold text-black">Digital campaigns</h3>
+                                <h3 class="mt-4 text-xl font-bold text-black">Foundation</h3>
 
                                 <p class="mt-1 text-sm text-black-300">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo
-                                    possimus adipisci distinctio alias voluptatum blanditiis laudantium.
+                                A foundation degree is a combined academic and vocational qualification in higher education
                                 </p>
                             </a>
 
@@ -71,11 +68,10 @@ const Programs = () => {
                                     />
                                 </svg>
 
-                                <h3 class="mt-4 text-xl font-bold text-black">Digital campaigns</h3>
+                                <h3 class="mt-4 text-xl font-bold text-black">Diploma</h3>
 
                                 <p class="mt-1 text-sm text-black-300">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo
-                                    possimus adipisci distinctio alias voluptatum blanditiis laudantium.
+                                A diploma program is offered by educational institutions and colleges and focus on specific skills for career-readiness.
                                 </p>
                             </a>
 
@@ -102,11 +98,10 @@ const Programs = () => {
                                     />
                                 </svg>
 
-                                <h3 class="mt-4 text-xl font-bold text-black">Digital campaigns</h3>
+                                <h3 class="mt-4 text-xl font-bold text-black">Undergraduate</h3>
 
                                 <p class="mt-1 text-sm text-black-300">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo
-                                    possimus adipisci distinctio alias voluptatum blanditiis laudantium.
+                                An undergraduate program is a 4-year college bachelor's degree program, or a 2-year associate's degree program.
                                 </p>
                             </a>
 
@@ -133,11 +128,10 @@ const Programs = () => {
                                     />
                                 </svg>
 
-                                <h3 class="mt-4 text-xl font-bold text-black">Digital campaigns</h3>
+                                <h3 class="mt-4 text-xl font-bold text-black">Postgraduates</h3>
 
                                 <p class="mt-1 text-sm text-black-300">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo
-                                    possimus adipisci distinctio alias voluptatum blanditiis laudantium.
+                                A postgraduate degree is a type of qualification that is completed after an undergraduate degree.
                                 </p>
                             </a>
 
@@ -164,11 +158,10 @@ const Programs = () => {
                                     />
                                 </svg>
 
-                                <h3 class="mt-4 text-xl font-bold text-black">Digital campaigns</h3>
+                                <h3 class="mt-4 text-xl font-bold text-black">PhD</h3>
 
                                 <p class="mt-1 text-sm text-black-300">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo
-                                    possimus adipisci distinctio alias voluptatum blanditiis laudantium.
+                                A PhD (Doctor of Philosophy) is a doctoral research degree and the highest level of academic qualification you can achieve.
                                 </p>
                             </a>
 
@@ -195,11 +188,10 @@ const Programs = () => {
                                     />
                                 </svg>
 
-                                <h3 class="mt-4 text-xl font-bold text-black">Digital campaigns</h3>
+                                <h3 class="mt-4 text-xl font-bold text-black">Nursing</h3>
 
                                 <p class="mt-1 text-sm text-black-300">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo
-                                    possimus adipisci distinctio alias voluptatum blanditiis laudantium.
+                                Nursing program means an accredited program for the training of individuals to become nurses. 
                                 </p>
                             </a>
                         </div>

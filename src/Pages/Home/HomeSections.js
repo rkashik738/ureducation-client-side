@@ -291,13 +291,13 @@ function HomeCode() {
                     <div class="max-w-screen-xl px-4 py-12 mx-auto md:py-16 sm:px-6 lg:px-8">
                         <div class="max-w-3xl mx-auto text-center">
                             <h2 class="text-3xl font-bold text-gray-900 sm:text-4xl">
-                                Trusted by eCommerce Businesses
+                            Graduate from an Award-Winning University
                             </h2>
 
                             <p class="mt-4 text-gray-500 sm:text-xl">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione dolores
-                                laborum labore provident impedit esse recusandae facere libero harum
-                                sequi.
+                            Explore all available scholarships and other financial assistance
+
+
                             </p>
                         </div>
 

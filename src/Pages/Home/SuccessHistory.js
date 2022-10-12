@@ -8,14 +8,8 @@ const SuccessHistory = () => {
                     <div class="max-w-screen-xl px-4 py-12 mx-auto md:py-16 sm:px-6 lg:px-8">
                         <div class="max-w-3xl mx-auto text-center">
                             <h2 class="text-3xl font-bold text-gray-900 sm:text-4xl">
-                                Trusted by eCommerce Businesses
+                            Our Success
                             </h2>
-
-                            <p class="mt-4 text-gray-500 sm:text-xl">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione dolores
-                                laborum labore provident impedit esse recusandae facere libero harum
-                                sequi.
-                            </p>
                         </div>
 
                         <div class="mt-8 sm:mt-12">
@@ -24,11 +18,11 @@ const SuccessHistory = () => {
                                     class="flex flex-col px-4 py-8 text-center border border-gray-100 rounded-lg"
                                 >
                                     <dt class="order-last text-lg font-medium text-gray-500">
-                                        Total Sales
+                                    Total Recruitment
                                     </dt>
 
                                     <dd class="text-4xl font-extrabold text-blue-600 md:text-5xl">
-                                        $4.8m
+                                        260+
                                     </dd>
                                 </div>
 
@@ -36,20 +30,20 @@ const SuccessHistory = () => {
                                     class="flex flex-col px-4 py-8 text-center border border-gray-100 rounded-lg"
                                 >
                                     <dt class="order-last text-lg font-medium text-gray-500">
-                                        Official Addons
+                                    Processing
                                     </dt>
 
-                                    <dd class="text-4xl font-extrabold text-blue-600 md:text-5xl">24</dd>
+                                    <dd class="text-4xl font-extrabold text-blue-600 md:text-5xl">59</dd>
                                 </div>
 
                                 <div
                                     class="flex flex-col px-4 py-8 text-center border border-gray-100 rounded-lg"
                                 >
                                     <dt class="order-last text-lg font-medium text-gray-500">
-                                        Total Addons
+                                    complete
                                     </dt>
 
-                                    <dd class="text-4xl font-extrabold text-blue-600 md:text-5xl">86</dd>
+                                    <dd class="text-4xl font-extrabold text-blue-600 md:text-5xl">201</dd>
                                 </div>
                             </dl>
                         </div>
