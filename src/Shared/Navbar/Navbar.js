@@ -3,6 +3,7 @@ import { NavLink, Link } from 'react-router-dom';
 import { FaSignOutAlt, FaRegMoon } from "react-icons/fa";
 import CustomLink from '../../components/CustomLink';
 import logo from '../../assets/logo/logo.png'
+import NavTopbar from '../NavTopbar/NavTopbar';
 
 const Navbar = ({ children }) => {
     const menuItems = <>
@@ -19,6 +20,7 @@ const Navbar = ({ children }) => {
         <div class="drawer drawer-end">
             <input id="my-drawer-3" type="checkbox" class="drawer-toggle" />
             <div class="drawer-content flex flex-col">
+                <NavTopbar />
                 <div className='bg-base-100 shadow-lg'>
                     {/* <!-- Navbar --> */}
                     <div class=" w-full navbar lg:max-w-7xl mx-auto lg:px-12">
